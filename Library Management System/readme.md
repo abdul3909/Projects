@@ -1,4 +1,4 @@
-# Library Management system
+# Library Management system (GUI)
 
 - The Library Management System allows the user to maintain information about both books and customers.
 - It maintains records on all the library's books, their costs, their condition, and the total number of volumes in the collection.
@@ -7,7 +7,7 @@
 
 
 ## Technologies
-- Python
+- Python(Tkinter)
 - MySQL
 
 
